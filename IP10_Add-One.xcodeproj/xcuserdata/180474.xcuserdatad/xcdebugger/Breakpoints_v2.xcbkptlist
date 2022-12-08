@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F1814B46-C1D7-48D8-B89A-EB1091CC4B24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IP10_Add-One/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000 - bd43bd71baf87b50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IP10_Add_One.ViewController.numberLbl.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "IP10_Add-One"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/180474/Desktop/Mobile%20Apps%20Projects/IP10_Add-One/IP10_Add-One/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000 - e2379a02384e4744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IP10_Add_One.ViewController.numberLbl.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "IP10_Add-One"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/180474/Desktop/Mobile%20Apps%20Projects/IP10_Add-One/IP10_Add-One/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000 - 4cc201c55c269e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IP10_Add_One.ViewController.numberLbl.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "IP10_Add-One"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/180474/Desktop/Mobile%20Apps%20Projects/IP10_Add-One/IP10_Add-One/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000 - 50bf142e4e37a13d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IP10_Add_One.ViewController.numberLbl.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IP10_Add-One"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/180474/Desktop/Mobile%20Apps%20Projects/IP10_Add-One/IP10_Add-One/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000 - c0c122b3845734a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IP10_Add_One.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IP10_Add_One.ViewController"
+                  moduleName = "IP10_Add-One"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/180474/Desktop/Mobile%20Apps%20Projects/IP10_Add-One/IP10_Add-One/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "197">
+               </Location>
+               <Location
+                  uuid = "A9F058BD-88FD-43BE-9A28-A8CD5125B000 - db3135c6ccd91e96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IP10_Add_One.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IP10_Add_One.ViewController&gt;"
+                  moduleName = "IP10_Add-One"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/180474/Desktop/Mobile%20Apps%20Projects/IP10_Add-One/IP10_Add-One/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

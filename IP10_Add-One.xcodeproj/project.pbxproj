@@ -13,6 +13,7 @@
 		22E6C9EA2937D44F002F4E6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22E6C9E82937D44F002F4E6A /* Main.storyboard */; };
 		22E6C9EC2937D451002F4E6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22E6C9EB2937D451002F4E6A /* Assets.xcassets */; };
 		22E6C9EF2937D451002F4E6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22E6C9ED2937D451002F4E6A /* LaunchScreen.storyboard */; };
+		22F73940293FB418002D6C5A /* HVD Comic Serif Pro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 22F7393F293FB3C9002D6C5A /* HVD Comic Serif Pro.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		22E6C9EB2937D451002F4E6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22E6C9EE2937D451002F4E6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22E6C9F02937D451002F4E6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22F7393F293FB3C9002D6C5A /* HVD Comic Serif Pro.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HVD Comic Serif Pro.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +65,17 @@
 				22E6C9EB2937D451002F4E6A /* Assets.xcassets */,
 				22E6C9ED2937D451002F4E6A /* LaunchScreen.storyboard */,
 				22E6C9F02937D451002F4E6A /* Info.plist */,
+				22F7393F293FB3C9002D6C5A /* HVD Comic Serif Pro.otf */,
+				22E8CF2D293A6D6200B8F9EB /* Images */,
 			);
 			path = "IP10_Add-One";
+			sourceTree = "<group>";
+		};
+		22E8CF2D293A6D6200B8F9EB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +138,7 @@
 			files = (
 				22E6C9EF2937D451002F4E6A /* LaunchScreen.storyboard in Resources */,
 				22E6C9EC2937D451002F4E6A /* Assets.xcassets in Resources */,
+				22F73940293FB418002D6C5A /* HVD Comic Serif Pro.otf in Resources */,
 				22E6C9EA2937D44F002F4E6A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
